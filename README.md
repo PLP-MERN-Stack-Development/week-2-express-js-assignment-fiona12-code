@@ -114,13 +114,13 @@ This is a RESTful API built with Express.js and MongoDB for managing products wi
 
 - Products
 - Method Endpoint Description
-- GET /api/products         Get all products
-- GET /api/products/:id     Get a specific product
-- POST /api/products        Create a new product
-- PUT /api/products/:id     Update a product
-- DELETE /api/products/:id  Delete a product
-- GET /api/products/search  Search products by name (query: name)
-- GET /api/products/filter  Filter by category (query: category)
+- GET /api/products         **Get all products**
+- GET /api/products/:id     **Get a specific product**
+- POST /api/products        **Create a new product**
+- PUT /api/products/:id     **Update a product**
+- DELETE /api/products/:id  **Delete a product**
+- GET /api/products/search  **Search products by name (query: name)**
+- GET /api/products/filter  **Filter by category (query: category)**
 
 # Authentication
 
